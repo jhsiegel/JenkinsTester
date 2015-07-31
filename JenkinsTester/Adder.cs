@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace JenkinsTester.Adders
 {
-    public class Adder
+    public class Adde
     {
 
         public int AddNumbers(int a, int b)
